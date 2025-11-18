@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammed and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Mohammed and I'm a Professional front-end developer specializing in designing and developing high-quality websites. I have strong experience in building and organizing projects using Git and GitHub, and I have the ability to work efficiently both independently and as part of a team. I am committed to delivering precise, clean, and high-performance websites — always with the highest quality and the best client-satisfying prices., from Yemen</h2>
 
 ###
 
