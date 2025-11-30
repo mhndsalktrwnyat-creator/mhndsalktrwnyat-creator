@@ -55,8 +55,8 @@ Educational website about home gardening.
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="https://wa.me/967775459781">WhatsApp</a> •
-  <a href="https://t.me/NoorMohamed100">Telegram</a> •
+  <a href="https://wa.me/967775459781" target="_blank">WhatsApp</a> •
+  <a href="https://t.me/NoorMohamed100" target="_blank">Telegram</a> •
   <a href="mailto:mhndsalktrwnyat@gmail.com">Email</a>
 </p>
 
