@@ -32,7 +32,7 @@ A modern and clean landing page designed with HTML & CSS.
 ### 🔹 **Portfolio Website**
 A fully responsive personal portfolio website.  
 ✔ Sections: Home, About, Services, Contact  
-🔗 **Demo:** _Add GitHub Pages link_  
+🔗 **Demo:** _The link_  
 🔗 **Code:** _Repository link_
 
 ---
